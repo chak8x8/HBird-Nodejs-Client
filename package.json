@@ -1,0 +1,32 @@
+{
+  "name": "hummingbird",
+  "version": "0.1.0",
+  "description": "This is a text block synchronization tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.0",
+    "enum": "^3.0.3",
+    "eventproxy": "^1.0.0",
+    "file-exists": "^5.0.1",
+    "gulp": "^4.0.2",
+    "jsonfile": "^6.0.1",
+    "line-by-line": "^0.1.6",
+    "logger": "0.0.1",
+    "lowdb": "^1.0.0",
+    "minimist": "^1.2.5",
+    "minimist-options": "^4.0.2",
+    "moment": "^2.25.3",
+    "nconf": "^0.10.0",
+    "node-watch": "^0.6.4",
+    "prompts": "^2.3.2",
+    "replace-in-file": "^6.0.0",
+    "shortid": "^2.2.15",
+    "socket.io-client": "^2.3.0",
+    "text-diff": "^1.0.1"
+  }
+}

@@ -1,0 +1,112 @@
+{
+    "ada": {
+        "head": "--",
+        "tail": "",
+        "postfix": [".adb"]
+    },
+    "applescript": {
+        "head": "(*",
+        "tail": "*)",
+        "postfix": [".scpt", ".scptd", ".applescript"]
+    },
+    "c": {
+        "head": "/*",
+        "tail": "*/",
+        "postfix": [".c", ".h"]
+    },
+    "cpp": {
+        "head": "/*",
+        "tail": "*/",
+        "postfix": [".cpp", ".cc", ".h", ".hxx"]
+    },
+    "haskell": {
+        "head": "{-",
+        "tail": "-}",
+        "postfix": [".hs"]
+    },
+    "java": {
+        "head": "/*",
+        "tail": "*/",
+        "postfix": [".java"]
+    },
+    "javascript": {
+        "head": "/*",
+        "tail": "*/",
+        "postfix": [".js"]
+    },
+    "lua": {
+        "head": "--[[",
+        "tail": "]]",
+        "postfix": [".lua"]
+    },
+    "matlab": {
+        "head": "%{",
+        "tail": "%}",
+        "postfix": [".m", ".mat", ".MAT"]
+    },
+    "perl": {
+        "head": "#",
+        "tail": "#",
+        "postfix": [".perl", ".pl"]
+    },
+    "php": {
+        "head": "/*",
+        "tail": "*/",
+        "postfix": [".php"]
+    },
+    "python": {
+        "head": "#",
+        "tail": "",
+        "postfix": [".py"]
+    },
+    "ruby": {
+        "head": "#",
+        "tail": "",
+        "postfix": [".rb"]
+    },
+    "sql": {
+        "head": "--",
+        "tail": "",
+        "postfix": [".sql"]
+    },
+    "swift": {
+        "head": "/*",
+        "tail": "*/",
+        "postfix": [".swift"]
+    },
+    "xml": {
+        "head": "<!--",
+        "tail": "-->",
+        "postfix": [".xml"]
+    },
+    "html": {
+        "head": "<!--",
+        "tail": "-->",
+        "postfix": [".html"]
+    },
+    "css": {
+        "head": "/*",
+        "tail": "*/",
+        "postfix": [".css"]
+    },
+    "shell": {
+        "head": "#",
+        "tail": "",
+        "postfix": [".sh"]
+    },
+    "batch": {
+        "head": "Rem",
+        "tail": "",
+        "postfix": [".js"]
+    },
+    "fortran": {
+        "head": "--",
+        "tail": "",
+        "postfix": [".f", ".for", ".f90"]
+    },
+    "default": {
+        "head": "#",
+        "tail": "#",
+        "postfix": ["default"]
+    }
+}
