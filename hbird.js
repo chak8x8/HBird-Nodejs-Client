@@ -153,7 +153,7 @@ function newTextBlock() {
     console.log("Copy following text block to your text file and modify the block" +
         "\n----------------------------------------------------------------\n");
 
-    console.log(getTempInjectBlock(getLangCommentSymbolsByLang(args.lang)));
+    console.log(getTempInjectBlock(getLangCommentSymbolsByLang(args.language)));
 
     console.log("------------------------------------------------------------\n" +
         "Copy above text block to your text file and modify the block");
